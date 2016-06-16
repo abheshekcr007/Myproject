@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
         gridView.setAdapter(new ImageAdapter(this));
 
         dfjgrmtklbmvkmvfmvfkmfblk
+                dffdvbgngn
     }
 }
